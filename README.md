@@ -8,7 +8,7 @@ $ pkg install play-audio
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install --upgrade pip
-$ git clone https://github.com/ayamrembo/son_x
+$ git clone https://github.com/ayamrembo/rembo
 $ ls ( L kecil )
 $ cd rembo
 $ python run.py
