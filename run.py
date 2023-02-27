@@ -7,6 +7,5 @@ if __name__ == "__main__":
   except:pass
   try:os.mkdir("CP")
   except:pass
-      __import__("rembo").menu()
-  except Exception as e:
-    exit(str(e))
+  __import__("rembo").menu()
+
