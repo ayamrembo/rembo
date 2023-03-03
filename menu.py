@@ -26,7 +26,7 @@ def banner():
 def menu():
   os.system("clear")
   banner()
-  Meledak = Tree(nel.fit(f"""[bold white]Untuk Versi Sekarang Hanya Support Di Perangkat Yang aarch64 Untuk Mengecek Ketik Perintah Ini : uname -m Jika Muncul [bold green] aarch64[bold white] Selamat Engkau Bisa Menggunakan Script rembo Ini...[bold white]""",style=f"bold white"))
+  Meledak = Tree(nel.fit(f"""[bold white]Untuk Versi Sekarang Hanya Support Di Perangkat Yang aarch64 Untuk Mengecek Ketik Perintah Ini : uname -m Jika Muncul [bold green] aarch64[bold white] Selamat Engkau Bisa Menggunakan Script Brute Ini...[bold white]""",style=f"bold white"))
   Meledak.add(nel.fit(f"[bold white]Jalankan ulang python [bold green]run.py[bold white]",style="bold white"))
   cetak(Meledak)
 if __name__=='__main__':
