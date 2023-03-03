@@ -29,5 +29,10 @@ def menu():
   Meledak = Tree(nel.fit(f"""[bold white]Untuk Versi Sekarang Hanya Support Di Perangkat Yang aarch64 Untuk Mengecek Ketik Perintah Ini : uname -m Jika Muncul [bold green] aarch64[bold white] Selamat Engkau Bisa Menggunakan Script Brute Ini...[bold white]""",style=f"bold white"))
   Meledak.add(nel.fit(f"[bold white]Jalankan ulang python [bold green]run.py[bold white]",style="bold white"))
   cetak(Meledak)
+  akwokwok = Tree(nel.fit(f"""[bold white] Cara Check Result CP[bold white]""",style=f"bold white"))
+  akwokwok.add(nel.fit(f"[bold white]cd rembo[bold white]",style="bold white"))
+  akwokwok.add(nel.fit(f"[bold white]cd CP[bold white]",style="bold white"))
+  akwokwok.add(nel.fit(f"[bold white]ls ( [bold green]L Kecil[bold white] )[bold white]",style="bold white"))
+  cetak(akwokwok)
 if __name__=='__main__':
 	menu()	
