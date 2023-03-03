@@ -10,7 +10,7 @@ $ pip install --upgrade pip
 $ git clone https://github.com/ayamrembo/rembo
 $ ls ( L kecil )
 $ cd rembo
-$ python run.py
+$ python menu.py
 ```
 ## Cara Update
 ```php
