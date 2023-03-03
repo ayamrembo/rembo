@@ -6,7 +6,6 @@ from rich.tree import Tree
 from rich import print as cetak
 from rich.panel import Panel as nel
 putih = '\x1b[1;97m'
-P3 = "#FFFFFF"
 def banner():
   os.system("clear")
   print(f"""{putih}
