@@ -7,5 +7,5 @@ if __name__ == "__main__":
   except:pass
   try:os.mkdir("CP")
   except:pass
-  __import__("rembo").menu()
+  __import__("Brute").menu()
 
